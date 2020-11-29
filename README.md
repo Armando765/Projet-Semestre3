@@ -1,2 +1,21 @@
-# Projet-Semestre3
-Projet d'acculturation numérique dans les écoles primaire nommée Eperi&amp;school. Projet dez 3ième semestre DUT Métiers du Multimédia et de l'Internet
+# testeperischool
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
